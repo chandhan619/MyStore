@@ -1,0 +1,23 @@
+{'results': [
+		[
+			{'field': '@timestamp', 'value': '2021-02-12 12: 00: 05.437'
+			},
+			{'field': '@message', 'value': 'value1 = Rajat\n'
+			},
+			{'field': '@ptr', 'value': 'CmUKLAooNTY0ODI2MTUxMTUzOi9hd3MvbGFtYmRhL0xhbWJkYV9QeXRob25fMRAEEjUaGAIF7P8MHAAAAAXtFhGRAAYCZtOwAAAAwiABKLiW87D5LjC9lvOw+S44B0ClBEiLFVC0DxACGAE='
+			}
+		],
+		[
+			{'field': '@timestamp', 'value': '2021-02-12 11: 57: 35.834'
+			},
+			{'field': '@message', 'value': 'value1 = Rajat\n'
+			},
+			{'field': '@ptr', 'value': 'CmUKLAooNTY0ODI2MTUxMTUzOi9hd3MvbGFtYmRhL0xhbWJkYV9QeXRob25fMRACEjUaGAIF5DRBVwAAAAJkbPBSAAYCZs3wAAABciABKNeF6rD5LjDbheqw+S44CEDuBEjfFlDdEBADGAE='
+			}
+		]
+	], 'statistics': {'recordsMatched': 2.0, 'recordsScanned': 59.0, 'bytesScanned': 4611.0
+	}, 'status': 'Complete', 'ResponseMetadata': {'RequestId': '3a0212bc-e933-4b35-a31f-a79000ba033b', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '3a0212bc-e933-4b35-a31f-a79000ba033b', 'content-type': 'application/x-amz-json-1.1', 'content-length': '671', 'date': 'Fri,
+			12 Feb 2021 12: 18: 04 GMT'
+		}, 'RetryAttempts': 0
+	}
+}
